@@ -11,7 +11,6 @@ interests:
   - Reverse Engineering
   - Game Design
   - Blockchain
-  - Software Development
 social:
   - icon: envelope
     icon_pack: fas
