@@ -25,10 +25,10 @@ date_format = "Jan 2006"
   date_start = "2015-01-01"
   date_end = ""
   description = """
-  
-  Served 70+ clients.
-  Programmed applications and tools using Microsoft Visual Studio, MS SQL and object-oriented languages with goals for code abstraction, stability, and reuse. 
-  Designed software interfaces using WPF that proved user-friendly and simplified overall management
-    """
+
+  - Served 70+ clients.
+  - Programmed applications and tools using Microsoft Visual Studio, MS SQL and object-oriented languages with goals for code abstraction, stability, and reuse. 
+  - Designed software interfaces using WPF that proved user-friendly and simplified overall management
+      """
 
 +++
