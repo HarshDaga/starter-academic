@@ -4,10 +4,7 @@ date: 2020-09-17T14:01:32.653Z
 draft: false
 featured: false
 external_link: https://github.com/housirvip/serve-me-ionic
-links:
-  - icon: github
-    icon_pack: far
-    url: https://github.com/housirvip/serve-me-ionic
+links: []
 image:
   filename: featured
   focal_point: Smart
