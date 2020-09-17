@@ -11,6 +11,7 @@ interests:
   - Artificial Intelligence
   - Reverse Engineering
   - Game Design
+  - Blockchain
   - Software Development
 social:
   - icon: envelope
