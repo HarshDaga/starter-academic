@@ -37,4 +37,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I'm currently pursuing a Masters in Computer Science at UT Arlington.
+I'm currently pursuing a Masters in Computer Science at UT Arlington, paving my way towards a PhD in Algorithms. I believe that machines are inherently dumb and if a machine makes a mistake, it's the developers fault for making it do so. This motivates me to exhaust every possible scenario I can think of when developing something and ensure that there's no unexpected outcomes.
