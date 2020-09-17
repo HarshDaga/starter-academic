@@ -3,9 +3,9 @@ organizations: []
 superuser: true
 authors:
   - admin
-title: Biography
+title: Harsh Daga
 role: Graduate Student at The University of Texas at Arlington
-bio: I'm currently pursuing a Masters in Computer Science at UT Arlington. 
+bio: I'm currently pursuing a Masters in Computer Science at UT Arlington.
 interests:
   - Artificial Intelligence
   - Reverse Engineering
@@ -38,3 +38,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
+I'm currently pursuing a Masters in Computer Science at UT Arlington.
