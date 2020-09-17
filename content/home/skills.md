@@ -15,19 +15,19 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "fa-laptop-code"
+  icon = "laptop-code"
   icon_pack = "fas"
   name = "Languages"
   description = "C#, C++, Python"
 
 [[feature]]
-  icon = "fa-connectdevelop"
+  icon = "connectdevelop"
   icon_pack = "fab"
   name = "Environments"
   description = "Visual Studio, IntelliJ IDEA, CLion, PyCharm"  
 
 [[feature]]
-  icon = "fa-book-reader"
+  icon = "book-reader"
   icon_pack = "fas"
   name = "Others"
   description = "Reverse Engineering, Game Design, Blockchain, AI"
