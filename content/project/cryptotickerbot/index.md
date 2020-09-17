@@ -1,5 +1,5 @@
 ---
-title: CryptoTickerBot
+title: Crypto Ticker Bot
 date: 2020-09-17T14:09:20.023Z
 draft: false
 featured: false
