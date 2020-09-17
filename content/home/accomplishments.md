@@ -19,33 +19,43 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Udemy"
+  organization_url = "https://www.udemy.com/"
+  title = "Design Patterns in C#"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  certificate_url = "https://www.udemy.com/certificate/UC-927a972a-e494-4183-a1a4-00608e2d0763/"
+  date_start = "2018-02-17"
+  date_end = "2020-09-17"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Udemy"
+  organization_url = "https://www.udemy.com/"
+  title = "Entity Framework"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = "https://www.udemy.com/certificate/UC-RIDJQQ7G/"
+  date_start = "2018-03-01"
+  date_end = "2018-03-07"
+  description = ""
+
+[[item]]
+  organization = "Udemy"
+  organization_url = "https://www.udemy.com/"
+  title = "C# Unit Testing with NUnit and Moq"
+  url = ""
+  certificate_url = "https://www.udemy.com/certificate/UC-NGH75I6M/"
+  date_start = "2018-02-06"
+  date_end = "2018-02-11"
+  description = ""
+
+[[item]]
+  organization = "Udemy"
+  organization_url = "https://www.udemy.com/"
+  title = "Reactive Extensions"
+  url = ""
+  certificate_url = "https://www.udemy.com/certificate/UC-E4JY70AT/"
+  date_start = "2017-11-04"
+  date_end = "2017-11-14"
   description = ""
 
 +++
