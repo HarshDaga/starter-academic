@@ -10,6 +10,7 @@ bio: My research interests include reverse engineering, artificial intelligence
 interests:
   - Artificial Intelligence
   - Reverse Engineering
+  - Game Design
   - Software Development
 social:
   - icon: envelope
@@ -21,6 +22,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/HarshDaga
+  - link: https://www.linkedin.com/in/harsh-daga/
+    icon_pack: fab
+    icon: linkedin
 education:
   courses:
     - course: Masters in Computer Science
