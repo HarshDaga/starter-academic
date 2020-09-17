@@ -3,10 +3,9 @@ organizations: []
 superuser: true
 authors:
   - admin
-title: Harsh Daga
+title: Biography
 role: Graduate Student at The University of Texas at Arlington
-bio: My research interests include reverse engineering, artificial intelligence
-  and programmable matter.
+bio: I'm currently pursuing a Masters in Computer Science at UT Arlington. 
 interests:
   - Artificial Intelligence
   - Reverse Engineering
