@@ -24,3 +24,8 @@
    name = "Resumé"
    url = "media/harsh_daga_resume.pdf"
    weight = 70
+
+[[main]]
+   name = "Assignment 01"
+   url = "pages/Assignment_01.html"
+   weight = 70
