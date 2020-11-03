@@ -27,5 +27,10 @@
 
 [[main]]
    name = "Assignment 01"
-   url = "pages/Assignment_01.html"
+   url = "pages/coursework/data mining/assignments/01/Assignment_01.html"
+   weight = 70
+
+[[main]]
+   name = "Assignment 02"
+   url = "pages/coursework/data mining/assignments/02/Assignment_02.html"
    weight = 70
