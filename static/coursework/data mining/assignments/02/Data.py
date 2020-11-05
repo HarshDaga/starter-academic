@@ -1,7 +1,12 @@
 import numpy as np
 import pandas as pd
-from sklearn.model_selection import KFold, train_test_split
 
+def k_fold(df: pd.DataFrame, k):
+    n = df.shape[0] // k
+    for i in range(0, df.shape[0], n):
+        test = df.iloc[i:i + n]
+        train = df.drop(test.index)
+        yield train.copy(), test.copy()
 
 class Data:
     features: list = ['sepal length', 'sepal width', 'petal length', 'petal width']
@@ -18,13 +23,12 @@ class Data:
     @classmethod
     def read(cls, filename: str, n_splits = 5, train_dev_split = 0.75):
         df = pd.read_csv(filename, header=None, names=cls.columns)
-        kf = KFold(n_splits=n_splits, shuffle=True)
-        for train_index, test_index in kf.split(df):
-            train = df.loc[train_index]
-            test = df.loc[test_index]
-            train, dev = train_test_split(train, train_size=train_dev_split)
+        shuffled = df.sample(frac=1)
+        for train, test in k_fold(shuffled, n_splits):
+            dev = train.sample(frac=1 - train_dev_split)
+            train = train.drop(dev.index)
 
-            yield cls(df, train, dev, test)
+            yield cls(shuffled, train, dev, test)
 
     def normalized(self):
         result = self.copy()
