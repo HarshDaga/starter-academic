@@ -34,3 +34,8 @@
    name = "Assignment 02"
    url = "coursework/data mining/assignments/02/Assignment_02.html"
    weight = 70
+
+[[main]]
+   name = "Assignment 03"
+   url = "coursework/data mining/assignments/03/Assignment_03.html"
+   weight = 70
